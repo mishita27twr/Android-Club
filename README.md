@@ -31,24 +31,23 @@ http://localhost:8501
 
 ## 📸 Screenshots
 
-(Add screenshots inside a folder `screenshots/` in this repo, then link them below.)
-
-### Home Page
+### Club Website Page
 ![Home Page](https://github.com/mishita27twr/Android-Club/raw/main/club_home.png)
 
-### About Us Section
+### About us page
 ![About us](https://github.com/mishita27twr/Android-Club/raw/main/club_about.png)
 
-### Projects Section
-![Contact Page](https://github.com/mishita27twr/Android-Club/raw/main/club_contact.png)
-
-### Events Section  
+#### Projects
 ![Projects Page](https://github.com/mishita27twr/Android-Club/raw/main/club_projects.png)
 
-### Contact Section
+#### Events
 ![Events Page](https://github.com/mishita27twr/Android-Club/raw/main/club_events.png)
+![Events Page](https://github.com/mishita27twr/Android-Club/raw/main/club_events1.png)
 
----
+### Contact Page
+![Contact Page](https://github.com/mishita27twr/Android-Club/raw/main/club_contact.png)
+
+
 # 🛠️ Tech Stack
 Python 3
 Streamlit
@@ -71,7 +70,7 @@ club_website/
 ## 📷 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/mishita27twr/Android-Club/raw/main/Task_App%20home%20page.png)  
+![Task App Home Page](https://github.com/mishita27twr/Android-Club/raw/main/Task_App%20home%20page.png)
 
 ### ➕ Adding a Task  
 ![Adding Task](https://github.com/mishita27twr/Android-Club/raw/main/Adding%20task.png)  
