@@ -33,20 +33,20 @@ http://localhost:8501
 
 (Add screenshots inside a folder `screenshots/` in this repo, then link them below.)
 
-- **Home Page**  
-  ![Home Page](screenshots/club_home.png)
+### Home Page
+![Home Page](https://github.com/mishita27twr/Android-Club/raw/main/club_home.png)
 
-- **About Us Section**  
-  ![About Us](screenshots/club_about.png)
+### About Us Section
+![About us](https://github.com/mishita27twr/Android-Club/raw/main/club_about.png)
 
-- **Projects Section**  
-  ![Projects](screenshots/club_projects.png)
+### Projects Section
+![Contact Page](https://github.com/mishita27twr/Android-Club/raw/main/club_contact.png)
 
-- **Events Section**  
-  ![Events](screenshots/club_events.png)
+### Events Section  
+![Projects Page](https://github.com/mishita27twr/Android-Club/raw/main/club_projects.png)
 
-- **Contact Section**  
-  ![Contact](screenshots/club_contact.png)
+### Contact Section
+![Events Page](https://github.com/mishita27twr/Android-Club/raw/main/club_events.png)
 
 ---
 # 🛠️ Tech Stack
@@ -71,19 +71,19 @@ club_website/
 ## 📷 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](screenshots/Task_App%20home%20page.png)  
+![Home Page](https://github.com/mishita27twr/Android-Club/raw/main/Task_App%20home%20page.png)  
 
 ### ➕ Adding a Task  
-![Adding Task](screenshots/Adding%20task.png)  
+![Adding Task](https://github.com/mishita27twr/Android-Club/raw/main/Adding%20task.png)  
 
 ### ✅ Task Added  
-![Task Added](screenshots/Task%20Added.png)  
+![Task Added](https://github.com/mishita27twr/Android-Club/raw/main/Task%20Added.png)  
 
 ### 🎯 Task Completed (Green Title)  
-![Task Completed](screenshots/Task%20completion%20(Green%20Title).png)  
+![Task Completed](https://github.com/mishita27twr/Android-Club/raw/main/Task%20completion%20(Green%20Ttitle).png)
 
 ### ⚠️ Error (No Title Entered)  
-![No Title Error](screenshots/NoTitle%20Error.png)  
+![No Title Error](https://github.com/mishita27twr/Android-Club/raw/main/NoTitle%20Error.png)  
 
 
 ---
