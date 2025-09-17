@@ -65,6 +65,18 @@ club_website/
 
 # ✅ Task List App  
 
+# 1️⃣ Open terminal / command prompt
+
+Navigate to your project folder where the app file is located:
+cd path/to/Task_List_App
+
+# 2️⃣ Run the Streamlit app
+streamlit run Task_List_App.py
+
+# 3️⃣ Open in browser
+After running the command, Streamlit will give you a local URL, usually:
+http://localhost:8501
+
 ---
 
 ## 📷 Screenshots  
