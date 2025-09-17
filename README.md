@@ -1,24 +1,26 @@
-# Android-Club
-# ✅ Task List App
+# Android-Club  
+
+# ✅ Task List App  
 
 ---
 
-## 📸 Screenshots
+## 📷 Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](screenshots/Task_App home page.png)
+![Home Page](screenshots/Task_App%20home%20page.png)  
 
 ### ➕ Adding a Task  
-![Adding Task](screenshots/Adding task.png)
+![Adding Task](screenshots/Adding%20task.png)  
 
 ### ✅ Task Added  
-![Task Added](screenshots/Task Added.png)
+![Task Added](screenshots/Task%20Added.png)  
 
 ### 🎯 Task Completed (Green Title)  
-![Task Completed](screenshots/Task completion (Green Title).png)
+![Task Completed](screenshots/Task%20completion%20(Green%20Title).png)  
 
 ### ⚠️ Error (No Title Entered)  
-![No Title Error](screenshots/NoTitle Error.png)
+![No Title Error](screenshots/NoTitle%20Error.png)  
+
 
 ---
 
